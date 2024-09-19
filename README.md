@@ -28,3 +28,6 @@ $ ionic cordova run ios
 
 Substitute ios for android if not on a Mac.
 
+
+![image](https://github.com/user-attachments/assets/30c660c1-e4cb-4ad0-8394-3640f493421e)
+
